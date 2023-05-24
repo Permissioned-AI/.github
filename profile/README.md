@@ -8,11 +8,11 @@ We specialize in creating AI tools that can analyze large volumes of data and pr
 
 ## Our Mission
 
-At Permissioned AI, our mission is to create AI tools that can augment the work of professionals. We believe that AI has the potential to revolutionize various industries by providing valuable insights and reducing the workload of professionals. By building reliable and accurate AI agents, we hope to help professionals work more efficiently and effectively.
+At Wise Counsel, our mission is to create AI tools that can augment the work of professionals. We believe that AI has the potential to revolutionize various industries by providing valuable insights and reducing the workload of professionals. By building reliable and accurate AI agents, we hope to help professionals work more efficiently and effectively.
 
 ## Our Values
 
-Our values are the foundation of everything we do at Permissioned AI. We believe in:
+Our values are the foundation of everything we do at Wise Counsel. We believe in:
 
 - **Innovation:** We are committed to pushing the boundaries of what is possible with AI.
 - **Accuracy:** We strive for accuracy in everything we do, ensuring that our AI tools provide reliable results.
@@ -34,5 +34,4 @@ Introducing **WiseCounsel AI**, your co-pilot in the professional sphere. Our pl
 If you're interested in learning more about Permissioned AI and our AI tools for professionals, please don't hesitate to contact us. We're always happy to answer your questions and provide more information about our products and services.
 
 - **Website:** [wisecounsel.ai](http://wisecounsel.ai)
-- **Email:** 
-- **Phone:**
+- **Email:** team@wisecounsel.ai
