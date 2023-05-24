@@ -1,6 +1,6 @@
-# Permissioned AI
+# Wise Counsel
 
-Welcome to Permissioned AI, an AI-based company that specializes in building tools and custom large language models for professionals across various fields. Our goal is to develop next-generation AI agents that can assist professionals in enhancing their efficiency and work quality.
+Welcome to Wise Counsel, an AI-based company that specializes in building tools and custom large language models for professionals across various fields. Our goal is to develop next-generation AI agents that can assist professionals in enhancing their efficiency and work quality.
 
 ## What We Do
 
